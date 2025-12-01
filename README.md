@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/License-ISC-4caf50)](#)
 
-Obfuscator Studio 提供现代化图形界面，支持批量文件与整项目模式，可组合十余种混淆策略，实时回显进度与结果，帮助你快速保护核心业务代码。
+### Obfuscator Studio 提供现代化图形界面，支持批量文件与整项目模式，可组合十余种混淆策略，实时回显进度与结果，帮助你快速保护核心业务代码。
 
 ![Obfuscator Studio](./image.png)
 
